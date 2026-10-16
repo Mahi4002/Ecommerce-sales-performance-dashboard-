@@ -1,5 +1,8 @@
 # 🛒 ShopSphere — E-Commerce Sales Performance Dashboard
 
+<img width="575" height="323" alt="Screenshot 2026-10-17 032318" src="https://github.com/user-attachments/assets/00f73de7-1faa-4a6a-81b2-4155d40decf4" />
+
+
 ## 📌 Project Overview
 
 ShopSphere is an interactive e-commerce sales performance dashboard built using Microsoft Power BI. It provides a consolidated view of sales, orders, profitability, product performance, regional sales, order status, and payment methods.
@@ -118,3 +121,5 @@ ShopSphere-Ecommerce-Dashboard/
 ## 👤 Author
 
 Created as a data analytics portfolio project to demonstrate practical skills in Power BI and e-commerce business analysis.
+
+
